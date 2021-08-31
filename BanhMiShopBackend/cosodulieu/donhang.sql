@@ -1,0 +1,3 @@
+INSERT INTO `donhang`(`madonhang`, `email`, `ngaydat`, `diachigiaohang`, `sdt`, `ngaygiaodukien`, `ngaygiaothucte`, `tongtien`, `tinhtrang`) VALUES (1, 'viethoang@gmail.com', '2021-08-21 14:30:24', 'Ptit', '09888888888', '2021-08-23', '2021-08-24 00:00:00', 300000, 2);
+INSERT INTO `donhang`(`madonhang`, `email`, `ngaydat`, `diachigiaohang`, `sdt`, `ngaygiaodukien`, `ngaygiaothucte`, `tongtien`, `tinhtrang`) VALUES (2, 'viethoang@gmail.com', '2021-08-30 00:00:00', 'Ptit', '09888888888', NULL, NULL, 110000, 2);
+INSERT INTO `donhang`(`madonhang`, `email`, `ngaydat`, `diachigiaohang`, `sdt`, `ngaygiaodukien`, `ngaygiaothucte`, `tongtien`, `tinhtrang`) VALUES (3, 'viethoang@gmail.com', '2021-08-31 00:00:00', 'Ptit', '09888888888', NULL, NULL, 1500000, 0);

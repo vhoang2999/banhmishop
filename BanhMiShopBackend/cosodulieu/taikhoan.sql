@@ -1,0 +1,2 @@
+INSERT INTO `taikhoan`(`id`, `email`, `password`, `firstname`, `lastname`, `address`, `phone`, `role`, `status`, `createat`) VALUES (1, 'admin@gmail.com', '123456', 'Admin', NULL, 'BanhMiShop', '01234567899', 1, 1, '2021-08-16 12:05:32');
+INSERT INTO `taikhoan`(`id`, `email`, `password`, `firstname`, `lastname`, `address`, `phone`, `role`, `status`, `createat`) VALUES (2, 'viethoang@gmail.com', '123456', 'Hoang', 'Viet', 'Ptit', '09888888888', 1, 1, '2021-08-18 16:23:00');
